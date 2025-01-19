@@ -113,23 +113,6 @@ DATASTAX_API_KEY=your_datastax_api_key
 LANGFLOW_API_KEY=your_langflow_api_key
 ```
 
-## How to Use
-
-1. **Enter Your Query**
-   - Type your analysis request in the main text box
-   - Supports natural language questions about your social media performance
-
-2. **Run the Analysis**
-   - Click the "Analyze" button to process your query
-   - The system will evaluate your data using AI-powered analytics
-
-3. **Review Results**
-   - Analysis results appear instantly below the input area
-   - View detailed metrics, trends, and actionable insights
-   - Access your complete chat history to track previous analyses
-
-**Note**: Each analysis provides visualization of key metrics, sentiment analysis of engagement, and customized recommendations based on your social media data.
-
 ## Project Structure
 - main.py: Main application file containing the Streamlit app logic.
 - requirements.txt: List of dependencies required for the project.
